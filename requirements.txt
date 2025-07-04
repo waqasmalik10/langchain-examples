@@ -1,0 +1,25 @@
+requests
+bs4
+langchain_openai
+langchain-core==0.1.53
+python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
+pypdf
+pyarrow==15.0.2
+chromadb
+faiss-cpu==1.7.4
+arxiv
+langchain_huggingface
+numpy
+langchain-objectbox
+wikipedia
+langchain_groq
+sentence_transformers
+
+# pip install ragstack-ai
+# pip install datasets
